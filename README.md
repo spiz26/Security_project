@@ -21,7 +21,7 @@ With the development of ICT and networks, security management of IT infrastructu
 
 **Keywords:** Reinforcement Learning, Information Security, Network, DQN
 
-====================================================================================
+---
 
 # Security Simulation 환경 설정
 
